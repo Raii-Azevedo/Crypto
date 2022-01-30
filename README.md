@@ -1,4 +1,4 @@
-![Crypto]()
+![Crypto](https://github.com/Raii-Azevedo/Crypto/blob/master/crypto%202.gif)
  
 ## Crypto
  
